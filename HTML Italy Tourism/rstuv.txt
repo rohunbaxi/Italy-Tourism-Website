@@ -1,0 +1,215 @@
+<html>
+<style>
+body {
+    color: black;
+}
+
+header {
+	color: red;
+	font-type: Palatino;
+
+}
+
+footer {
+	color: blue;
+	font-family: sans-serif;
+
+}
+table, th, td {
+    border: 1px solid black;
+	font-family: Gill Sans Extrabold, sans-serif;
+
+}
+header {
+	border: 15px solid black;
+	border-radius: 50px;
+	position: relative;
+	width: 40%;
+}
+
+
+}
+section2 {
+	border: #000000;
+position: fixed;
+    top: 100;
+    right: 0;
+    margin: 10;
+    width: 45%;
+    height: 500px;
+    padding: 10px;
+    border: 3px solid #000000;
+}
+
+}
+</style>
+<script>
+function toUSD() {
+	var x = document.getElementById("numb").value;
+	document.getElementById("money").innerHTML= "$"+(x*.81)+" USD funds";
+}
+
+</script>
+<center>
+<header>
+<font size="18">
+<strong> <h> Italy <br/> The Country of Dreams</h>
+</header>
+
+</strong>
+</font>
+<body background="789.jpg">
+<br/>
+<form action="<style>
+body {
+    color: black;
+}
+
+header {
+	color: red;
+	font-type: Palatino;
+
+}
+
+footer {
+	color: blue;
+	font-family: sans-serif;
+
+}
+table, th, td {
+    border: 1px solid black;
+	font-family: Gill Sans Extrabold, sans-serif;
+
+}
+header {
+	border: 15px solid black;
+	border-radius: 50px;
+	position: relative;
+	width: 40%;
+}">
+    <input type="submit" value="George Bush Official Website" />
+</form>
+<a href="#WHO">Click Here For The Truth Regarding This Website</a>
+<br/>
+<script>
+<input type="button" onclick="location.href="http://www.italia.it/en/home.html" value="Italy Official Website" />
+</script>
+
+<p1>
+<u> This is really important info regarding him </u>
+<br/>
+The stuff that truly makes this man a real legend.<hr/>
+</p1>
+<p2>
+<b>
+He looks like a boss
+</b>
+<br/>
+</p2>
+
+<section2>
+<img src="https://s.yimg.com/ny/api/res/1.2/OppmhHofO0GpOzL9hUtEVA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjEwO2g9ODI3O2lsPXBsYW5l/http://media.zenfs.com/en-CA/blogs/canadapolitics/President-George-W.-Bush-Reuters.jpg" width="300" height="420">
+<br/>
+<p3>
+<strong>
+He can charm everyone with his talking, this is him after 9/11
+</p3>
+</strong>
+<br>
+<video width="420" height="240" controls>
+  <source src="1.mp4" type="video/mp4">
+</video>
+<br/>
+<a href="https://www.youtube.com/watch?v=XbqCquDl4k4">Watch Here if Video Does Not</a>
+<br/>
+This is the beautiful anthem of our great country
+<br/>
+The country that George Bush served
+<br/>
+<audio controls>
+  <source src="1234.ogg" type="audio/ogg">
+</audio>
+<br/>
+</body>
+<p4>
+Continuing on....
+<br/>
+<u>
+<a href="http://www.theonion.com/article/george-w-bush-having-trouble-finding-decent-cocain-32608">He truly is the best president to have ever lived. He can even paint. The Onion says so.</a>
+<Haters hate but George Bush doesn't care>
+<br>
+<img src="giphy.gif" height="800" width="1200">
+<footer bgcolor= "54CE39">
+</u>
+<strong>
+To conclude...
+</strong>
+<br/>
+George Bush is the greatest president in world history
+<br/>
+Here is a list of some recent recent presidents
+<table>
+  <tr>
+    <th>President</th>
+    <th>Term</th>
+  </tr>
+  <tr>
+    <td>George Bush</td>
+    <td>2001-2005</td>
+  </tr>
+  <tr>
+    <td>George Bush</td>
+    <td>2005-2009</td>
+  </tr>
+<tr>
+<td>Barack Obama</td>
+<td>2009-2013</td>
+</tr>
+<tr>
+<td>Barack Obama</td>
+<td>2013-2017</td>
+</tr>
+</table>
+</center>
+<mark>
+<b>
+<u>
+<h2>#BestestPresidents</h2>
+<ol>
+<mark>
+<li>This One Of Course</li>
+<li>Abraham Lincoln<br/>Fought For What Was On His Brain Until A Bullet Went Through It</li>
+<li>John F. Kennedy</li>
+<li>George "The Gorge" Washington</li>
+</mark>
+</ol>
+<p5>
+No Particular Order Intended (except for number 1)
+</p5>
+<b>
+</u>
+
+</mark>
+<center>
+<font color="red">
+<br/>
+With this you can convert your useless Canadian Dollar into...
+<br/>
+Glorious American Ones
+<p>Insert CAD amount:</p>
+<input id="numb">
+<button type="button" onclick="toUSD()">Submit</button>
+<p id="money"></p>
+</font>
+
+
+
+
+
+
+<footer style="background-color:#ffffff; position: relative; bottom:-30px; height:30px; width:100%">My Footer
+<a name="#WHO" /> "To be honest, I don't really like George Bush at all, I just made this webstite just cause, I am acutally a communist"
+</footer>
+<br/>
+</center>
+</html>
